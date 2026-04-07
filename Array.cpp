@@ -16,5 +16,17 @@ int main(){
     dataku[2] = 600;
     cout << "Data ke - 3 yang baru : " << dataku[2]<<endl;
 
+    //mengisi array datamu satu per satu
+    cout << "Data index ke - 0 : " ;
+    cin >> datamu[0];
+    cout << "Data index ke - 1 : " ;
+    cin >> datamu[1];
+    cout << "Data index ke - 2 : " ;
+    cin >> datamu[2];
+    cout << "Data index ke - 3 : " ;
+    cin >> datamu[3];
+    cout << "Data index ke - 4 : " ;
+    cin >> datamu[4];
+
 
 }
